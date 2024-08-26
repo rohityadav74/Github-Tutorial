@@ -1,0 +1,8 @@
+------------git command-----------
+
+1.  for initalise git:              git init
+2.  for checking status:            git status
+3.  for adding file:                git add <file name>
+4.  for commit:                     git commit -m "commit message"
+5.  for check again git status:     git status
+6.  to see commit:                  git log
