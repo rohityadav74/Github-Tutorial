@@ -1,0 +1,6 @@
+-----------Remote Command----------
+
+1.  to add a new remote repository to your local Git project     :  git remote add <remote name i., origin">  <url>
+
+2.  pushes local repos to remote repos                           :  git push -u <remote name ie., origin> <branch name ie., main>
+
