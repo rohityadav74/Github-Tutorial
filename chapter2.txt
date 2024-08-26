@@ -1,0 +1,5 @@
+--------------git tutorial--------
+
+1.  for adding multiple file in stag:                       git add .
+2.  to revert back our last work of local repositary:       git checkout <file name>
+3.  to check changes:                                       git diff <file name>
