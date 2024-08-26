@@ -1,0 +1,6 @@
+--------------Gitignore------------
+
+1.  for removing the stagging area      : git rm --cached -remote
+
+2.  to make file hidden from public create .gitignore file and in that file write the file name which you want to hide 
+    for example, .DS_Store ,  secret.txt  , *txt -> all txt file
