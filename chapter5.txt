@@ -1,3 +1,21 @@
 -----------------git clone--------------
 
 1.      git command for cloning the project   :  git clone <url>
+
+
+
+---------------git baranching and merging---------------
+
+1.      to create a branch                                  :    git branch <branch name>
+
+2.      to check the branch in which you current present    :    git branch
+
+3.      to switch on other branch                           :    git checkout <branch name>
+
+4.      How to merge the changes from other branch to main branch?
+        a. first switch to main branch              :   git check out main
+        b. and the merge                            :   git merge <other branch name>
+
+
+-----------------------forking and pull requests-------------------
+1.  Through this one can send pull request to changes and make contribution
